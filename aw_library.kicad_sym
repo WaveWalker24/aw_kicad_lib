@@ -3524,29 +3524,27 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "J"
-			(at -15.24 19.05 0)
+		(property "Reference" "J6"
+			(at 0 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
 		(property "Value" "DX07S024JJ2R1300"
-			(at -15.24 -22.86 0)
+			(at 0 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Library:JAE_DX07S024JJ2R1300"
+		(property "Footprint" "aw_lib:JAE_DX07S024JJ2R1300"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
